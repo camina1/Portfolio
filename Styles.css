@@ -11,3 +11,14 @@ p {
     font-family: verdana;
     font-size: 192;
 }
+p.normal {
+    font-style: normal;
+}
+
+p.italic {
+    font-style: italic;
+}
+
+p.oblique {
+    font-style: oblique;
+}
